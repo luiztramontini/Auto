@@ -1,2 +1,2 @@
 # Auto
-Automação simples para estudo. Através de um clique, o código abre no Youtube. Esse é o primeiro de muitos projetos de automação que pretendo desenvolver 
+Simple automation for studies. Through a click, the code opens on Youtube. This is my first of many projects i will do. 
